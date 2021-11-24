@@ -1,5 +1,5 @@
 <h2>ProyectoFinal</h2>
-<p>Marifer Toribio Torres</p>
+<h6>Marifer Toribio Torres</h6>
 
 <p>composer install</p>
 <p>Modificar los datos en el .env, para configurar base de datos y 

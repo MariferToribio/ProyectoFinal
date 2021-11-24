@@ -1,7 +1,7 @@
 <h2>Proyecto Final</h2>
 <h5>Marifer Toribio Torres</h5><br>
 
-<h6>Notas a considerar:</h6>
+<h6>NOTAS A CONSIDERAR:</h6>
 <p>composer install</p>
 <p>Modificar los datos en el .env, para configurar base de datos "tienda" y 
 para el servicio de correo.</p>

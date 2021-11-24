@@ -1,5 +1,5 @@
-<h2>ProyectoFinal</h2>
-<h5>Marifer Toribio Torres</h5>
+<h2>Proyecto Final</h2>
+<h5>Marifer Toribio Torres</h5><br>
 
 <h6>Notas a considerar:</h6>
 <p>composer install</p>

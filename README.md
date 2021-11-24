@@ -2,7 +2,7 @@
 <h6>Marifer Toribio Torres</h6>
 
 <p>composer install</p>
-<p>Modificar los datos en el .env, para configurar base de datos y 
+<p>Modificar los datos en el .env, para configurar base de datos "tienda" y 
 para el servicio de correo.</p>
 <p>php artisan migrate</p>
 <p>php artisan db:seed --class=EditorialSeeder</p>

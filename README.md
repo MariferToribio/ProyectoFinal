@@ -1,4 +1,4 @@
-<h2>ProyectoFinal<h2>
+<h2>ProyectoFinal</h2>
 <p>Marifer Toribio Torres</p>
 
 <p>composer install</p>

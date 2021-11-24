@@ -1,3 +1,14 @@
+#ProyectoFinal
+Marifer Toribio Torres
+
+composer install 
+Modificar los datos en el .env, para configurar base de datos y 
+para el servicio de correo.
+php artisan migrate
+php artisan db:seed --class=EditorialSeeder
+php artisan db:seed --class=AutorSeeder
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
